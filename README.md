@@ -5,7 +5,7 @@ opencv 라이브러리를 활용한 segmentation mask 출력
 jetson nano board
 
 ## Using Custom Model
-fcn_resnet50_SUNRGBD_256x256
+[fcn_resnet50_SUNRGBD_256x256](https://drive.google.com/drive/folders/1fmrjJKHwFRI_J9LHEBi-cHJjTaz9pALn?hl=ko)
 
 ## Using Dataset
 [SUNRGBD](https://github.com/ankurhanda/sunrgbd-meta-data)
